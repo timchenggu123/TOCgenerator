@@ -1,6 +1,6 @@
 # TOCgenerator
 
-- This is a macro capable of generating a table of contents for your word document (mainly reprots)
+- This is a macro capable of generating a table of contents for your word document (mainly reports)
 
 Please note: 
 - Section titles must be in their own paragraphs and follow the format such as "2.0 Methodology". No particular formatting is required.
