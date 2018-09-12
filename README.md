@@ -3,7 +3,7 @@
 - This is a macro capable of generating a table of contents for your word document (mainly reports)
 
 Please note: 
-- Section titles must be in their own paragraphs and follow the format such as "2.0 Methodology". No particular formatting is required.
+- Section titles must be in their own paragraphs and follow the format such as "2.0 Methodology". No particular text formatting is required.
 - Figures must be anchored to their titles or names
 - All section names and figure names should not exceed one line in length
 
